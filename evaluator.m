@@ -1,0 +1,2 @@
+immediatePrediction = neuralNetworkFunction(immediateFeatures');
+
